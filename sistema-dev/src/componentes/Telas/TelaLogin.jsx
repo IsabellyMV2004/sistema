@@ -19,6 +19,7 @@ export default function TelaLogin() {
                 "logado":true
             })
         }
+        
         evento.preventDefault();
         evento.stopPropagation();
     }
